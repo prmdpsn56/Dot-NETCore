@@ -1,0 +1,27 @@
+GET http://localhost:5274/games
+
+
+###
+GET http://localhost:5274/games/1
+###
+GET http://localhost:5274/games/2
+###
+GET http://localhost:5274/games/3
+
+###
+POST http://localhost:5274/games
+Content-Type: application/json
+
+{
+    "name": "New Game",
+    "description": "Adventure",
+    "imageUrl": "https://example.com/image.jpg",
+    "releaseDate": "2023-10-01",
+    "price": 59.99,
+    "rating": 4
+}
+
+
+
+###
+DELETE http://localhost:5274/games/3
