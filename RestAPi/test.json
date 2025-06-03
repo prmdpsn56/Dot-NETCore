@@ -2,6 +2,6 @@
   "sdk": {
     "version": "Commit on main source branch and then on remote branch",
     "name": "RestAPi",
-    "description": "A simple REST API for testing purposes",
+    "description": "A simple REST API for testing purposes"
   }
 }
