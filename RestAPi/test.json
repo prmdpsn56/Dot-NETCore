@@ -1,6 +1,6 @@
 {
   "sdk": {
-    "version": "Base Branch: CONTENT FROM CHECKed out branch we wanna keep",
+    "version": "Base Branch: CONTENT FROM CHECKed out branch we wanna keep, and this line part as well.",
     "description": "New commit on base branch"
   }
 }
