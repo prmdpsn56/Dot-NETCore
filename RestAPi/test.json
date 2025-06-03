@@ -1,5 +1,6 @@
 {
   "sdk": {
-    "version": "Base Branch:"
+    "version": "Base Branch:",
+    "description": "New commit on base branch"
   }
 }
